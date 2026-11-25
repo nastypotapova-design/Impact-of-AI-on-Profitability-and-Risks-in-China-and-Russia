@@ -26,7 +26,7 @@ Annual financial data (Total Assets, Liabilities, Net Profit) was merged with th
 ## 5. Industry Classification
 The sample covers **799** companies across various CSRC industries. The distribution is concentrated in manufacturing, IT, and financial sectors.
 
-![Industry Distribution](industry_distribution.png)
+![Industry Distribution](1_industry_distribution.png)
 
 ### Sector Flags Created
 - **Tech companies:** 179
